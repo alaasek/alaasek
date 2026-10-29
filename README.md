@@ -131,22 +131,26 @@ A startup project developed with the Djazpora × USTHB Startup Hackathon team.
 
 ---
 
-## `04` — GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/alaasek">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alaasek&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&icon_color=34D399&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api?username=alaasek&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&icon_color=34D399&text_color=C9D1D9&rank_icon=github&cache_seconds=86400"
+       alt="GitHub statistics"/>
 </a>
+
 <a href="https://github.com/alaasek">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaasek&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=C9D1D9&langs_count=6" alt="Most-used languages"/>
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=alaasek&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=C9D1D9&langs_count=6&cache_seconds=86400"
+       alt="Most-used programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaasek&bg_color=00000000&color=34D399&line=10B981&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 
 </div>
+
 
 ---
 
