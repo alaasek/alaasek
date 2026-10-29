@@ -75,7 +75,7 @@ A document question-answering assistant using semantic retrieval, vector search,
 `FastAPI` `ChromaDB` `Next.js`
 
 <!-- Replace with your actual KnowFlow repository URL -->
-<a href="https://github.com/alaasek">
+<a href="https://github.com/alaasek/RAG-chatbot">
   <img src="https://img.shields.io/badge/Find_Project-123C36?style=for-the-badge&logo=github&logoColor=white" alt="Find KnowFlow AI"/>
 </a>
 
