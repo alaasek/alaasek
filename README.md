@@ -1,12 +1,11 @@
-
 <!-- ==================== HERO ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:123C36,100:10B981&text=Alaa%20Sekiou&fontColor=FFFFFF&fontSize=58&fontAlignY=48&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descSize=16&descAlignY=68&animation=fadeIn" alt="Alaa Sekiou — AI and Data Science"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,50:123C36,100:10B981&text=Alaa%20Sekiou&fontColor=FFFFFF&fontSize=58&fontAlignY=48&desc=AI%20Researcher%20%7C%20ML%20%7C%20LLMs&descSize=16&descAlignY=68&animation=fadeIn" alt="Alaa Sekiou — AI Research and Machine Learning"/>
 
 <a href="https://github.com/alaasek">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=Building+intelligent+applications;Exploring+RAG+and+semantic+search;Turning+data+into+useful+insights;Learning%2C+building%2C+and+improving." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=Studying+AI+systems+and+learning+by+building;Researching+RAG%2C+retrieval%2C+and+ML;Building+data-driven+intelligent+solutions;Exploring%2C+evaluating%2C+and+improving." alt="Animated introduction"/>
 </a>
 
 <br/>
@@ -26,22 +25,28 @@
 
 ## `01` — About Me
 
-I'm a Master's student in Artificial Intelligence at **USTHB, Algeria**, interested in building practical intelligent systems.
+I am a Master's student in Artificial Intelligence at USTHB, Algeria, with a strong interest in machine learning, intelligent systems, and applied AI research.
 
-- 🧠 **AI & ML** — deep learning, Transformers, and model evaluation
-- 🔎 **Retrieval & LLMs** — RAG, embeddings, and semantic search
-- 🌍 **Applied AI** — satellite time series and agricultural classification
-- ⚙️ **Software Engineering** — APIs and full-stack applications
+My work focuses on understanding how to design, evaluate, and deploy AI models that are reliable, interpretable, and useful in real-world settings.
 
-<details>
-<summary><b>Currently learning & exploring</b></summary>
+- 🧠 **Machine Learning** — deep learning, representation learning, and model evaluation
+- 🔎 **LLMs & Retrieval** — RAG, embeddings, vector search, and semantic retrieval
+- 🌍 **Applied AI** — remote sensing, time-series analysis, and agricultural intelligence
+- ⚙️ **AI Systems** — scalable pipelines, experimentation, and software integration
 
-- Persistent knowledge for AI assistants
-- Vector retrieval and knowledge graph concepts
-- Reliable AI application architectures
-- Reproducible machine learning experiments
+I am particularly interested in research-driven AI, reproducible experimentation, and building systems that bridge theory and practical impact.
 
-</details>
+### Research interests
+- Generative AI and LLMs
+- Retrieval-augmented generation
+- Semantic search and knowledge access
+- Geospatial and time-series modeling
+- Applied machine learning for decision support systems
+
+### Current focus
+- Designing reliable AI workflows for real-world data
+- Exploring retrieval architectures and knowledge grounding
+- Improving experimentation quality and reproducibility in ML pipelines
 
 ---
 
@@ -53,14 +58,14 @@ I'm a Master's student in Artificial Intelligence at **USTHB, Algeria**, interes
 
 ### 🌾 Crop Classification
 
-**Satellite Intelligence**
+**Remote Sensing & Agricultural Intelligence**
 
-Classifying agricultural crops from Sentinel-2 time series using deep learning.
+Developed a machine learning pipeline for crop classification from Sentinel-2 time series, with a focus on geospatial patterns and model generalization.
 
-`Python` `PyTorch` `Transformers`
+`Python` `PyTorch` `TensorFlow` `Time Series` `Remote Sensing`
 
 <a href="https://github.com/alaasek/crop-classificationML">
-  <img src="https://img.shields.io/badge/Explore_Project-123C36?style=for-the-badge&logo=github&logoColor=white" alt="Explore crop classification"/>
+  <img src="https://img.shields.io/badge/View_Project-123C36?style=for-the-badge&logo=github&logoColor=white" alt="View crop classification project"/>
 </a>
 
 </td>
@@ -68,15 +73,14 @@ Classifying agricultural crops from Sentinel-2 time series using deep learning.
 
 ### 🧠 KnowFlow AI
 
-**Document Intelligence**
+**Document Intelligence & Retrieval**
 
-A document question-answering assistant using semantic retrieval, vector search, and cited answers.
+Built a document question-answering assistant using semantic retrieval, embedding-based search, and answer generation with source grounding.
 
-`FastAPI` `ChromaDB` `Next.js`
+`Python` `FastAPI` `ChromaDB` `Next.js` `LLMs`
 
-<!-- Replace with your actual KnowFlow repository URL -->
 <a href="https://github.com/alaasek/RAG-chatbot">
-  <img src="https://img.shields.io/badge/Find_Project-123C36?style=for-the-badge&logo=github&logoColor=white" alt="Find KnowFlow AI"/>
+  <img src="https://img.shields.io/badge/View_Project-123C36?style=for-the-badge&logo=github&logoColor=white" alt="View KnowFlow AI"/>
 </a>
 
 </td>
@@ -84,26 +88,24 @@ A document question-answering assistant using semantic retrieval, vector search,
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Enterprise Software
+### 🏦 Banking Workflow Software
 
-**Banking Application**
+**Applied Software Engineering**
 
-Desktop software for international bank-guarantee workflows, developed during an internship.
+Contributed to a business-oriented desktop application for international bank-guarantee workflows, emphasizing software design, process modeling, and practical implementation.
 
-`C#` `.NET` `XAML`
+`C#` `.NET` `XAML` `Desktop Application`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Exploridz
 
-**Hackathon Project**
+**Innovation & Product Thinking**
 
-A startup project developed with the Djazpora × USTHB Startup Hackathon team.
+Participated in a startup-focused hackathon project emphasizing problem identification, product design, and rapid prototyping under interdisciplinary collaboration.
 
-<!-- Add the actual public repository or project URL if available -->
-
-`Product Development` `Teamwork`
+`Product Development` `Teamwork` `Innovation`
 
 </td>
 </tr>
@@ -111,26 +113,37 @@ A startup project developed with the Djazpora × USTHB Startup Hackathon team.
 
 ---
 
-## `03` — Technology Stack
+## `03` — Research & Technical Stack
 
 <div align="center">
 
-### AI & Data
+### AI / ML / Data
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="AI and data technologies"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and data technologies"/>
 
-### Backend & Frontend
+### LLMs / Retrieval / Systems
 
-<img src="https://skillicons.dev/icons?i=fastapi,cs,dotnet,ts,js,react,nextjs&theme=dark" alt="Backend and frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=fastapi,ts,js,react,nextjs&theme=dark" alt="LLMs and system tools"/>
 
 ### Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode&theme=dark" alt="Development tools and infrastructure"/>
 
 </div>
 
 ---
 
+## `04` — Research Interests
+
+- Deep learning and representation learning
+- Retrieval-augmented generation
+- Semantic search and knowledge grounding
+- Remote sensing and geospatial AI
+- Time-series modeling
+- Reproducible ML experimentation
+- Human-centered intelligent systems
+
+---
 
 <div align="center">
 
@@ -148,20 +161,19 @@ A startup project developed with the Djazpora × USTHB Startup Hackathon team.
 
 <br/><br/>
 
-
 </div>
-
 
 ---
 
 ## `05` — Beyond the Code
 
 <details>
-<summary><b>Community & collaboration</b></summary>
+<summary><b>Academic & community involvement</b></summary>
 
+- Master's student in Artificial Intelligence — USTHB, Algeria
 - Founding member and design lead — Data Science Club, USTHB
-- Participated in ideathons through Open Minds Club
-- Exploridz — Djazpora × USTHB Startup Hackathon
+- Participated in innovation-driven initiatives through Open Minds Club
+- Explored startup and product development in collaborative hackathon environments
 
 </details>
 
@@ -178,7 +190,7 @@ A startup project developed with the Djazpora × USTHB Startup Hackathon team.
 
 <div align="center">
 
-### Let's build something meaningful.
+### Exploring the boundary between AI theory and applied intelligence.
 
 <a href="https://github.com/alaasek">
   <img src="https://img.shields.io/badge/GitHub-alaasek-0B1220?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub profile"/>
@@ -186,7 +198,7 @@ A startup project developed with the Djazpora × USTHB Startup Hackathon team.
 
 <br/><br/>
 
-<sub>Designed with curiosity, built with code.</sub>
+<sub>Built with curiosity, shaped by research.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123C36,100:0B1220&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
